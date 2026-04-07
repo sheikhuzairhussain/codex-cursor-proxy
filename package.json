@@ -1,6 +1,6 @@
 {
   "name": "codex-cursor-proxy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Use your ChatGPT Plus/Pro subscription to access Codex models in third-party clients like Cursor",
   "author": "Sheikh Uzair Hussain",
   "license": "MIT",
