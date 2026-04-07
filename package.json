@@ -1,8 +1,8 @@
 {
   "name": "codex-cursor-proxy",
   "version": "0.1.0",
-  "description": "Proxy that lets Cursor IDE use OpenAI Codex (ChatGPT) as a backend via the Responses API",
-  "author": "Lightbear Co",
+  "description": "Use your ChatGPT Plus/Pro subscription to access Codex models in third-party clients like Cursor",
+  "author": "Sheikh Uzair Hussain",
   "license": "MIT",
   "type": "module",
   "bin": {
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lightbearco/codex-cursor-proxy"
+    "url": "https://github.com/sheikhuzairhussain/codex-cursor-proxy"
   },
   "scripts": {
     "dev": "bun run --watch index.ts"

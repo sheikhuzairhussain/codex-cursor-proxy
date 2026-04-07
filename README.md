@@ -1,6 +1,6 @@
 # codex-cursor-proxy
 
-Proxy that lets [Cursor IDE](https://cursor.sh) use OpenAI Codex (via your ChatGPT Plus account) as a backend. It translates between the OpenAI Responses API and the Chat Completions streaming format that Cursor expects.
+A small CLI proxy that lets you use your ChatGPT Plus/Pro subscription to access Codex models in third-party clients like [Cursor](https://cursor.sh). It's hacky but it works.
 
 ## Prerequisites
 
